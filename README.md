@@ -7,9 +7,9 @@ This project is a port in Java of a sailboat simulator written in C++ by the Rob
 
 In order to compile and run the project, you need to download and configure the JOGL library in your development environment.
 
-JOGL can be downloaded [here!](https://jogamp.org/deployment/jogamp-current/archive/jogamp-all-platforms.7z)
+JOGL can be downloaded [here](https://jogamp.org/deployment/jogamp-current/archive/jogamp-all-platforms.7z)
 
-To configure your development environment check [this page!](https://jogamp.org/wiki/index.php/Setting_up_a_JogAmp_project_in_your_favorite_IDE).
+To configure your development environment check [this page](https://jogamp.org/wiki/index.php/Setting_up_a_JogAmp_project_in_your_favorite_IDE).
 
 # Acknowledgement
 
@@ -18,4 +18,4 @@ I also thank Bruno Aizier and Cédric Doudard for their help about modeling the 
 
 # Further reading
 
-If you are interested in the issues around autonomous sailboats have a look to [Luc Jaulin's home page!](https://www.ensta-bretagne.fr/jaulin/) and [Fabrice Le Bars' home page!](http://www.ensta-bretagne.fr/lebars/).
+If you are interested in the issues around autonomous sailboats have a look to [Luc Jaulin's home page](https://www.ensta-bretagne.fr/jaulin/) and [Fabrice Le Bars' home page](http://www.ensta-bretagne.fr/lebars/).
